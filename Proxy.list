@@ -28,6 +28,7 @@ DOMAIN-KEYWORD,tesla
 USER-AGENT,battleroyale*
 
 # > Top blocked sites
+DOMAIN-SUFFIX,redirector.gvt1.com
 DOMAIN-SUFFIX,developer.android.com
 DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,2o7.net
